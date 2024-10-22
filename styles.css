@@ -22,7 +22,29 @@ header {
 
 h1 {
   margin: 0;
-  color: #31c368;
+  color: #00b846;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: #0c111b;
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  margin: 0;
+  color: #00cf00;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: #0c111b;
+  text-align: center;
+  padding: 20px;
+}
+
+h4 {
+  margin: 0;
+  color: #00cf00;
   position: sticky;
   top: 0;
   z-index: 10;
